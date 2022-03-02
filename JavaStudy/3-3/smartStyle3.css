@@ -1,0 +1,51 @@
+@media screen and (max-width: 479px) {
+	.header {
+		width: 200px;
+		height: 200px;
+	}
+
+	.header-child1 {
+		top: 20px;
+		left: 70px;
+	}
+
+	.header-child2 {
+		top: 70px;
+		left: 70px;
+	}
+
+	.header-child3 {
+		top: 120px;
+		left: 70px;
+	}
+
+	.left {
+		width: 200px;
+		height: 100px;
+		float: none;
+	}
+
+	.right {
+		width: 200px;
+		height: 210px;
+	}
+
+	.right-child1 {
+		top: 20px;
+		left: 25px;
+	}
+
+	.right-child2 {
+		top: 80px;
+		left: 25px;
+	}
+
+	.right-child3 {
+		top: 140px;
+		left: 25px;
+	}
+
+	.footer {
+		width: 200px;
+	}
+}
